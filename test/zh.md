@@ -1,7 +1,7 @@
 ---
 title: Template
 layout: back
-filename: index
+filename: zh
 --- 
 
 ## Template
